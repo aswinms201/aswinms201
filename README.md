@@ -1,6 +1,7 @@
 
-<!-- <img width="540" height="300" alt="5e302aca25f9138c67b03c6defc2b105" src="https://github.com/user-attachments/assets/43953681-ee47-410a-b0b1-5844a99b8e96" /> -->
-https://github.com/user-attachments/assets/1abf6ebf-f2db-4b46-a307-c515dbba5137
+
+<img width="736" height="576" alt="me" src="https://github.com/user-attachments/assets/661c432a-b378-4f81-aed1-d236ce14a242" />
+
 
 # 💫 About Me:
 👋 Hi, I'm Aswin M S, an AI/ML Engineer and Data Scientist.  <br>🚀 I specialize in building end-to-end AI applications, from real-time computer vision interfaces to predictive machine learning models.  <br>💼 optimizing ETL pipelines and engineering real-time Web applications.  <br>🌱 Actively sharpening my algorithms and competitive programming skills<br>⚡ Fun Fact: When I'm away from my keyboard, you'll find me planning my next high-altitude trekking adventure—I am a huge fan of exploring snowy mountains, high peaks, and frozen lakes!
