@@ -1,6 +1,8 @@
 
 
-<img width="736" height="576" alt="me" src="https://github.com/user-attachments/assets/661c432a-b378-4f81-aed1-d236ce14a242" />
+
+<img width="736" height="576" alt="me-ezgif com-crop" src="https://github.com/user-attachments/assets/83457617-0992-4fb7-a728-4f36e6f7c7ea" />
+
 
 
 # 💫 About Me:
